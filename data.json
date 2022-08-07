@@ -1,8 +1,14 @@
 [
   {
-    "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 740,
-    "open_issues_count": 16,
-    "forks_count": 341
+    "full_name": "vitejs/vite",
+    "stargazers_count": 45781,
+    "open_issues_count": 587,
+    "forks_count": 3721
+  },
+  {
+    "full_name": "preactjs/preact",
+    "stargazers_count": 32502,
+    "open_issues_count": 221,
+    "forks_count": 1815
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 15135,
-    "open_issues_count": 92,
-    "forks_count": 1596
+    "stargazers_count": 15263,
+    "open_issues_count": 96,
+    "forks_count": 1610
   },
   {
     "full_name": "kitten/evalish",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1426,
+    "stargazers_count": 1432,
     "open_issues_count": 3,
     "forks_count": 51
   },
@@ -25,33 +25,33 @@
   },
   {
     "full_name": "kitten/use-interactions",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 30062,
-    "open_issues_count": 358,
-    "forks_count": 648
+    "stargazers_count": 30606,
+    "open_issues_count": 354,
+    "forks_count": 667
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 7088,
+    "stargazers_count": 7138,
     "open_issues_count": 9,
-    "forks_count": 519
+    "forks_count": 521
   },
   {
     "full_name": "prql/prql",
-    "stargazers_count": 4663,
-    "open_issues_count": 90,
+    "stargazers_count": 4678,
+    "open_issues_count": 88,
     "forks_count": 88
   },
   {
     "full_name": "JoviDeCroock/hoofd",
-    "stargazers_count": 310,
+    "stargazers_count": 309,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "kossnocorp/opensource.how",
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 13258,
-    "open_issues_count": 125,
-    "forks_count": 690
+    "stargazers_count": 13319,
+    "open_issues_count": 111,
+    "forks_count": 694
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 1732,
+    "stargazers_count": 1791,
     "open_issues_count": 11,
-    "forks_count": 138
+    "forks_count": 146
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
-    "stargazers_count": 345,
+    "stargazers_count": 350,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -81,7 +81,7 @@
     "full_name": "dmleong/manager-resources",
     "stargazers_count": 234,
     "open_issues_count": 6,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "testing-library/preact-hooks-testing-library",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "rakkasjs/rakkasjs",
-    "stargazers_count": 570,
+    "stargazers_count": 573,
     "open_issues_count": 15,
     "forks_count": 9
   },
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 70180,
-    "open_issues_count": 8779,
-    "forks_count": 9558
+    "stargazers_count": 70380,
+    "open_issues_count": 8800,
+    "forks_count": 9576
   },
   {
     "full_name": "parcel-bundler/parcel-css",
-    "stargazers_count": 1988,
+    "stargazers_count": 1995,
     "open_issues_count": 49,
     "forks_count": 62
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "golang/groupcache",
-    "stargazers_count": 11585,
+    "stargazers_count": 11597,
     "open_issues_count": 40,
     "forks_count": 1303
   },
   {
     "full_name": "Developer-DAO/web3-ui",
-    "stargazers_count": 692,
-    "open_issues_count": 2,
-    "forks_count": 130
+    "stargazers_count": 693,
+    "open_issues_count": 3,
+    "forks_count": 131
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8567,
-    "open_issues_count": 202,
-    "forks_count": 484
+    "stargazers_count": 8617,
+    "open_issues_count": 210,
+    "forks_count": 494
   },
   {
     "full_name": "Developer-DAO/developer-dao-nft-contract",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "graphql/graphql-wg",
-    "stargazers_count": 406,
-    "open_issues_count": 27,
-    "forks_count": 200
+    "stargazers_count": 407,
+    "open_issues_count": 26,
+    "forks_count": 201
   },
   {
     "full_name": "maticnetwork/miden",
     "stargazers_count": 267,
-    "open_issues_count": 50,
-    "forks_count": 46
+    "open_issues_count": 47,
+    "forks_count": 47
   },
   {
     "full_name": "Developer-DAO/DAO-job-board",
