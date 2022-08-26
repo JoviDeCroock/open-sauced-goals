@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "jorgef/engineeringladders",
+    "stargazers_count": 6126,
+    "open_issues_count": 1,
+    "forks_count": 354
+  },
+  {
     "full_name": "0no-co/urql-testapi-todos",
     "stargazers_count": 3,
     "open_issues_count": 4,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1024,
+    "stargazers_count": 1029,
     "open_issues_count": 19,
-    "forks_count": 59
+    "forks_count": 61
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 16159,
-    "open_issues_count": 123,
-    "forks_count": 1668
+    "stargazers_count": 16205,
+    "open_issues_count": 120,
+    "forks_count": 1678
   },
   {
     "full_name": "0no-co/evalish",
@@ -55,24 +61,24 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 32132,
-    "open_issues_count": 366,
-    "forks_count": 714
+    "stargazers_count": 32712,
+    "open_issues_count": 373,
+    "forks_count": 737
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 7232,
+    "stargazers_count": 7245,
     "open_issues_count": 9,
-    "forks_count": 538
+    "forks_count": 537
   },
   {
     "full_name": "prql/prql",
-    "stargazers_count": 4741,
-    "open_issues_count": 95,
+    "stargazers_count": 4772,
+    "open_issues_count": 91,
     "forks_count": 89
   },
   {
-    "full_name": "JoviDeCroock/hoofd",
+    "full_name": "0no-co/hoofd",
     "stargazers_count": 310,
     "open_issues_count": 0,
     "forks_count": 14
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 17488,
-    "open_issues_count": 155,
-    "forks_count": 804
+    "stargazers_count": 17918,
+    "open_issues_count": 133,
+    "forks_count": 828
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 1989,
+    "stargazers_count": 2036,
     "open_issues_count": 11,
-    "forks_count": 160
+    "forks_count": 161
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
@@ -116,12 +122,12 @@
   {
     "full_name": "mwood23/preact-island",
     "stargazers_count": 139,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "rakkasjs/rakkasjs",
-    "stargazers_count": 621,
+    "stargazers_count": 622,
     "open_issues_count": 11,
     "forks_count": 10
   },
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 71013,
-    "open_issues_count": 8904,
-    "forks_count": 9662
+    "stargazers_count": 71127,
+    "open_issues_count": 8912,
+    "forks_count": 9669
   },
   {
     "full_name": "parcel-bundler/parcel-css",
-    "stargazers_count": 2023,
-    "open_issues_count": 47,
-    "forks_count": 65
+    "stargazers_count": 2026,
+    "open_issues_count": 46,
+    "forks_count": 66
   },
   {
     "full_name": "StellateHQ/examples",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "golang/groupcache",
-    "stargazers_count": 11632,
+    "stargazers_count": 11640,
     "open_issues_count": 40,
-    "forks_count": 1302
+    "forks_count": 1301
   },
   {
     "full_name": "Developer-DAO/web3-ui",
-    "stargazers_count": 698,
+    "stargazers_count": 702,
     "open_issues_count": 4,
-    "forks_count": 135
+    "forks_count": 136
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8925,
+    "stargazers_count": 8973,
     "open_issues_count": 215,
-    "forks_count": 528
-  },
-  {
-    "full_name": "Developer-DAO/developer-dao-nft-contract",
-    "stargazers_count": 162,
-    "open_issues_count": 2,
-    "forks_count": 37
+    "forks_count": 532
   }
 ]
