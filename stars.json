@@ -1,19 +1,19 @@
 [
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 812,
-    "open_issues_count": 14,
-    "forks_count": 18
+    "stargazers_count": 1006,
+    "open_issues_count": 25,
+    "forks_count": 23
   },
   {
     "full_name": "developit/jsdom-worker",
-    "stargazers_count": 258,
-    "open_issues_count": 4,
+    "stargazers_count": 261,
+    "open_issues_count": 5,
     "forks_count": 18
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6306,
+    "stargazers_count": 6334,
     "open_issues_count": 1,
     "forks_count": 366
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1120,
+    "stargazers_count": 1167,
     "open_issues_count": 23,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 16434,
-    "open_issues_count": 119,
-    "forks_count": 1700
+    "stargazers_count": 16496,
+    "open_issues_count": 116,
+    "forks_count": 1709
   },
   {
     "full_name": "0no-co/evalish",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1466,
+    "stargazers_count": 1468,
     "open_issues_count": 3,
     "forks_count": 52
   },
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 33646,
-    "open_issues_count": 375,
-    "forks_count": 779
+    "stargazers_count": 33793,
+    "open_issues_count": 384,
+    "forks_count": 781
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 9298,
-    "open_issues_count": 10,
-    "forks_count": 618
+    "stargazers_count": 9527,
+    "open_issues_count": 11,
+    "forks_count": 634
   },
   {
     "full_name": "prql/prql",
-    "stargazers_count": 4914,
+    "stargazers_count": 4988,
     "open_issues_count": 94,
-    "forks_count": 92
+    "forks_count": 94
   },
   {
     "full_name": "0no-co/hoofd",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 19186,
-    "open_issues_count": 148,
-    "forks_count": 892
+    "stargazers_count": 19500,
+    "open_issues_count": 131,
+    "forks_count": 901
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 2159,
+    "stargazers_count": 2191,
     "open_issues_count": 13,
-    "forks_count": 173
+    "forks_count": 176
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "rakkasjs/rakkasjs",
-    "stargazers_count": 640,
-    "open_issues_count": 10,
+    "stargazers_count": 645,
+    "open_issues_count": 11,
     "forks_count": 12
   },
   {
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 71531,
-    "open_issues_count": 8913,
-    "forks_count": 9718
+    "stargazers_count": 71651,
+    "open_issues_count": 8921,
+    "forks_count": 9737
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 2126,
-    "open_issues_count": 44,
-    "forks_count": 67
+    "stargazers_count": 2384,
+    "open_issues_count": 49,
+    "forks_count": 70
   },
   {
     "full_name": "StellateHQ/examples",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "golang/groupcache",
-    "stargazers_count": 11671,
+    "stargazers_count": 11675,
     "open_issues_count": 40,
     "forks_count": 1303
   }
