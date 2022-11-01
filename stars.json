@@ -1,32 +1,38 @@
 [
   {
-    "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 23780,
+    "full_name": "dudykr/stc",
+    "stargazers_count": 2086,
     "open_issues_count": 17,
-    "forks_count": 2622
+    "forks_count": 49
+  },
+  {
+    "full_name": "jamiebuilds/the-super-tiny-compiler",
+    "stargazers_count": 23798,
+    "open_issues_count": 17,
+    "forks_count": 2624
   },
   {
     "full_name": "natemoo-re/satori-html",
-    "stargazers_count": 142,
+    "stargazers_count": 144,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "barelyhuman/preact-native",
-    "stargazers_count": 131,
-    "open_issues_count": 8,
+    "stargazers_count": 132,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 558,
-    "open_issues_count": 26,
+    "stargazers_count": 575,
+    "open_issues_count": 27,
     "forks_count": 31
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1401,
-    "open_issues_count": 32,
+    "stargazers_count": 1405,
+    "open_issues_count": 37,
     "forks_count": 35
   },
   {
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6571,
+    "stargazers_count": 6582,
     "open_issues_count": 3,
-    "forks_count": 391
+    "forks_count": 392
   },
   {
     "full_name": "0no-co/urql-testapi-todos",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1308,
-    "open_issues_count": 25,
-    "forks_count": 77
+    "stargazers_count": 1316,
+    "open_issues_count": 23,
+    "forks_count": 76
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 17443,
-    "open_issues_count": 207,
-    "forks_count": 1818
+    "stargazers_count": 17479,
+    "open_issues_count": 229,
+    "forks_count": 1828
   },
   {
     "full_name": "0no-co/evalish",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1545,
+    "stargazers_count": 1554,
     "open_issues_count": 3,
     "forks_count": 52
   },
@@ -91,26 +97,26 @@
   },
   {
     "full_name": "0no-co/use-interactions",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 35518,
-    "open_issues_count": 423,
-    "forks_count": 835
+    "stargazers_count": 35694,
+    "open_issues_count": 441,
+    "forks_count": 840
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10003,
+    "stargazers_count": 10024,
     "open_issues_count": 11,
-    "forks_count": 674
+    "forks_count": 677
   },
   {
     "full_name": "prql/prql",
-    "stargazers_count": 5248,
-    "open_issues_count": 101,
+    "stargazers_count": 5265,
+    "open_issues_count": 105,
     "forks_count": 103
   },
   {
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 21669,
-    "open_issues_count": 99,
-    "forks_count": 1011
+    "stargazers_count": 21798,
+    "open_issues_count": 97,
+    "forks_count": 1020
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 2561,
+    "stargazers_count": 2581,
     "open_issues_count": 15,
-    "forks_count": 219
+    "forks_count": 226
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "dmleong/manager-resources",
-    "stargazers_count": 243,
+    "stargazers_count": 246,
     "open_issues_count": 6,
     "forks_count": 19
   },
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "mwood23/preact-island",
-    "stargazers_count": 153,
+    "stargazers_count": 155,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "rakkasjs/rakkasjs",
-    "stargazers_count": 709,
+    "stargazers_count": 716,
     "open_issues_count": 12,
     "forks_count": 15
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "rust-lang/rust",
-    "stargazers_count": 73747,
-    "open_issues_count": 9218,
-    "forks_count": 9949
   }
 ]
