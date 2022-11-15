@@ -1,38 +1,38 @@
 [
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 9411,
+    "stargazers_count": 9424,
     "open_issues_count": 148,
-    "forks_count": 376
+    "forks_count": 375
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 22202,
-    "open_issues_count": 68,
-    "forks_count": 1042
+    "stargazers_count": 22455,
+    "open_issues_count": 75,
+    "forks_count": 1054
   },
   {
-    "full_name": "FormidableLabs/urql",
-    "stargazers_count": 7580,
-    "open_issues_count": 36,
-    "forks_count": 372
-  },
-  {
-    "full_name": "vitejs/vite",
-    "stargazers_count": 49337,
-    "open_issues_count": 670,
-    "forks_count": 4227
+    "full_name": "urql-graphql/urql",
+    "stargazers_count": 7588,
+    "open_issues_count": 37,
+    "forks_count": 373
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 49337,
-    "open_issues_count": 670,
-    "forks_count": 4227
+    "stargazers_count": 49442,
+    "open_issues_count": 662,
+    "forks_count": 4247
+  },
+  {
+    "full_name": "vitejs/vite",
+    "stargazers_count": 49442,
+    "open_issues_count": 662,
+    "forks_count": 4247
   },
   {
     "full_name": "preactjs/preact",
-    "stargazers_count": 33283,
-    "open_issues_count": 219,
+    "stargazers_count": 33302,
+    "open_issues_count": 223,
     "forks_count": 1833
   }
 ]
