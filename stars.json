@@ -1,13 +1,13 @@
 [
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 14371,
+    "stargazers_count": 16816,
     "open_issues_count": 1,
-    "forks_count": 791
+    "forks_count": 917
   },
   {
     "full_name": "prichodko/foundation",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 5,
     "forks_count": 1
   },
@@ -26,20 +26,20 @@
   {
     "full_name": "pippyn/Home-Assistant-Sensor-Afvalbeheer",
     "stargazers_count": 171,
-    "open_issues_count": 17,
-    "forks_count": 69
+    "open_issues_count": 18,
+    "forks_count": 68
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 2955,
-    "open_issues_count": 41,
-    "forks_count": 86
+    "stargazers_count": 3038,
+    "open_issues_count": 42,
+    "forks_count": 87
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 24039,
-    "open_issues_count": 17,
-    "forks_count": 2638
+    "stargazers_count": 24161,
+    "open_issues_count": 18,
+    "forks_count": 2647
   },
   {
     "full_name": "natemoo-re/satori-html",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 627,
+    "stargazers_count": 634,
     "open_issues_count": 26,
     "forks_count": 32
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1456,
+    "stargazers_count": 1460,
     "open_issues_count": 46,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "developit/jsdom-worker",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6733,
+    "stargazers_count": 6752,
     "open_issues_count": 1,
-    "forks_count": 407
+    "forks_count": 409
   },
   {
     "full_name": "0no-co/urql-testapi-todos",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1393,
+    "stargazers_count": 1405,
     "open_issues_count": 30,
     "forks_count": 84
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 17819,
-    "open_issues_count": 174,
-    "forks_count": 1875
+    "stargazers_count": 18144,
+    "open_issues_count": 193,
+    "forks_count": 1889
   },
   {
     "full_name": "0no-co/evalish",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1612,
+    "stargazers_count": 1622,
     "open_issues_count": 3,
     "forks_count": 53
   },
   {
     "full_name": "lxsmnsyc/solid-cache",
-    "stargazers_count": 23,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 36335,
-    "open_issues_count": 408,
-    "forks_count": 863
+    "stargazers_count": 36404,
+    "open_issues_count": 418,
+    "forks_count": 865
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10085,
+    "stargazers_count": 10090,
     "open_issues_count": 12,
-    "forks_count": 689
+    "forks_count": 691
   },
   {
     "full_name": "prql/prql",
-    "stargazers_count": 5336,
-    "open_issues_count": 105,
-    "forks_count": 104
+    "stargazers_count": 5352,
+    "open_issues_count": 101,
+    "forks_count": 105
   },
   {
     "full_name": "0no-co/hoofd",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 22943,
-    "open_issues_count": 73,
-    "forks_count": 1087
+    "stargazers_count": 23020,
+    "open_issues_count": 83,
+    "forks_count": 1088
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 2759,
+    "stargazers_count": 2772,
     "open_issues_count": 16,
-    "forks_count": 248
+    "forks_count": 250
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
-    "stargazers_count": 384,
+    "stargazers_count": 385,
     "open_issues_count": 0,
     "forks_count": 2
   }
