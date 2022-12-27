@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "theanalyst/awesome-distributed-systems",
+    "stargazers_count": 8648,
+    "open_issues_count": 10,
+    "forks_count": 1259
+  },
+  {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 26507,
-    "open_issues_count": 2782,
-    "forks_count": 5356
+    "stargazers_count": 26531,
+    "open_issues_count": 2805,
+    "forks_count": 5357
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 731,
+    "stargazers_count": 732,
     "open_issues_count": 4,
     "forks_count": 15
   },
   {
     "full_name": "gbj/leptos",
-    "stargazers_count": 3661,
-    "open_issues_count": 17,
-    "forks_count": 80
+    "stargazers_count": 3734,
+    "open_issues_count": 14,
+    "forks_count": 84
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18508,
+    "stargazers_count": 18584,
     "open_issues_count": 0,
-    "forks_count": 1004
+    "forks_count": 1007
   },
   {
     "full_name": "prichodko/foundation",
@@ -43,19 +49,19 @@
   },
   {
     "full_name": "pippyn/Home-Assistant-Sensor-Afvalbeheer",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 21,
     "forks_count": 71
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3680,
+    "stargazers_count": 3715,
     "open_issues_count": 50,
-    "forks_count": 112
+    "forks_count": 113
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 24346,
+    "stargazers_count": 24370,
     "open_issues_count": 17,
     "forks_count": 2660
   },
@@ -63,7 +69,7 @@
     "full_name": "natemoo-re/satori-html",
     "stargazers_count": 163,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 2
   },
   {
     "full_name": "barelyhuman/preact-native",
@@ -73,14 +79,14 @@
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 699,
-    "open_issues_count": 31,
+    "stargazers_count": 709,
+    "open_issues_count": 36,
     "forks_count": 36
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1495,
-    "open_issues_count": 48,
+    "stargazers_count": 1499,
+    "open_issues_count": 50,
     "forks_count": 41
   },
   {
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6816,
+    "stargazers_count": 6822,
     "open_issues_count": 1,
-    "forks_count": 419
+    "forks_count": 420
   },
   {
     "full_name": "0no-co/urql-testapi-todos",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1501,
-    "open_issues_count": 32,
-    "forks_count": 90
+    "stargazers_count": 1506,
+    "open_issues_count": 30,
+    "forks_count": 91
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 18457,
+    "stargazers_count": 18479,
     "open_issues_count": 222,
-    "forks_count": 1925
+    "forks_count": 1926
   },
   {
     "full_name": "0no-co/evalish",
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1652,
+    "stargazers_count": 1655,
     "open_issues_count": 3,
     "forks_count": 55
   },
@@ -151,31 +157,25 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 36920,
-    "open_issues_count": 429,
-    "forks_count": 880
+    "stargazers_count": 37004,
+    "open_issues_count": 440,
+    "forks_count": 886
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10124,
+    "stargazers_count": 10129,
     "open_issues_count": 11,
     "forks_count": 694
   },
   {
     "full_name": "PRQL/prql",
-    "stargazers_count": 5409,
-    "open_issues_count": 94,
-    "forks_count": 105
+    "stargazers_count": 5417,
+    "open_issues_count": 95,
+    "forks_count": 106
   },
   {
     "full_name": "0no-co/hoofd",
     "stargazers_count": 318,
-    "open_issues_count": 2,
-    "forks_count": 14
-  },
-  {
-    "full_name": "kossnocorp/opensource.how",
-    "stargazers_count": 314,
     "open_issues_count": 2,
     "forks_count": 14
   }
