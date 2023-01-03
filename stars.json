@@ -1,14 +1,14 @@
 [
   {
     "full_name": "theanalyst/awesome-distributed-systems",
-    "stargazers_count": 8660,
+    "stargazers_count": 8670,
     "open_issues_count": 10,
-    "forks_count": 1258
+    "forks_count": 1260
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 26555,
-    "open_issues_count": 2746,
+    "stargazers_count": 26590,
+    "open_issues_count": 2788,
     "forks_count": 5361
   },
   {
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "gbj/leptos",
-    "stargazers_count": 4041,
-    "open_issues_count": 11,
-    "forks_count": 89
+    "stargazers_count": 4242,
+    "open_issues_count": 9,
+    "forks_count": 92
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18632,
+    "stargazers_count": 18663,
     "open_issues_count": 0,
-    "forks_count": 1011
+    "forks_count": 1014
   },
   {
     "full_name": "prichodko/foundation",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "github/codespaces-preact",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 2,
     "forks_count": 5
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3756,
-    "open_issues_count": 50,
-    "forks_count": 115
+    "stargazers_count": 3794,
+    "open_issues_count": 52,
+    "forks_count": 114
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 24395,
+    "stargazers_count": 24412,
     "open_issues_count": 17,
-    "forks_count": 2663
+    "forks_count": 2662
   },
   {
     "full_name": "natemoo-re/satori-html",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 712,
-    "open_issues_count": 38,
+    "stargazers_count": 714,
+    "open_issues_count": 39,
     "forks_count": 37
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1500,
+    "stargazers_count": 1511,
     "open_issues_count": 46,
     "forks_count": 42
   },
   {
     "full_name": "developit/jsdom-worker",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 7,
     "forks_count": 18
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6829,
+    "stargazers_count": 6840,
     "open_issues_count": 1,
-    "forks_count": 421
+    "forks_count": 422
   },
   {
     "full_name": "0no-co/urql-testapi-todos",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1512,
-    "open_issues_count": 33,
-    "forks_count": 91
+    "stargazers_count": 1524,
+    "open_issues_count": 32,
+    "forks_count": 92
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 18502,
-    "open_issues_count": 226,
-    "forks_count": 1926
+    "stargazers_count": 18605,
+    "open_issues_count": 239,
+    "forks_count": 1932
   },
   {
     "full_name": "0no-co/evalish",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1657,
+    "stargazers_count": 1660,
     "open_issues_count": 3,
     "forks_count": 55
   },
   {
     "full_name": "lxsmnsyc/solid-cache",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 37068,
-    "open_issues_count": 440,
-    "forks_count": 892
+    "stargazers_count": 37137,
+    "open_issues_count": 452,
+    "forks_count": 898
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10143,
+    "stargazers_count": 10155,
     "open_issues_count": 11,
-    "forks_count": 697
+    "forks_count": 700
   },
   {
     "full_name": "PRQL/prql",
-    "stargazers_count": 5431,
-    "open_issues_count": 98,
-    "forks_count": 108
+    "stargazers_count": 6282,
+    "open_issues_count": 99,
+    "forks_count": 125
   },
   {
     "full_name": "0no-co/hoofd",
