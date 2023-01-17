@@ -1,33 +1,33 @@
 [
   {
     "full_name": "theanalyst/awesome-distributed-systems",
-    "stargazers_count": 8698,
+    "stargazers_count": 8723,
     "open_issues_count": 11,
-    "forks_count": 1263
+    "forks_count": 1268
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 26729,
-    "open_issues_count": 2773,
-    "forks_count": 5379
+    "stargazers_count": 26768,
+    "open_issues_count": 2791,
+    "forks_count": 5383
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 737,
-    "open_issues_count": 4,
-    "forks_count": 16
+    "stargazers_count": 743,
+    "open_issues_count": 5,
+    "forks_count": 17
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 4499,
-    "open_issues_count": 12,
-    "forks_count": 97
+    "stargazers_count": 4957,
+    "open_issues_count": 15,
+    "forks_count": 113
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18817,
+    "stargazers_count": 18872,
     "open_issues_count": 0,
-    "forks_count": 1020
+    "forks_count": 1022
   },
   {
     "full_name": "prichodko/foundation",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "github/codespaces-preact",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 2,
     "forks_count": 5
   },
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "pippyn/Home-Assistant-Sensor-Afvalbeheer",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 24,
     "forks_count": 71
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3892,
-    "open_issues_count": 49,
-    "forks_count": 118
+    "stargazers_count": 3921,
+    "open_issues_count": 48,
+    "forks_count": 120
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 24466,
+    "stargazers_count": 24482,
     "open_issues_count": 17,
     "forks_count": 2673
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 727,
-    "open_issues_count": 35,
+    "stargazers_count": 731,
+    "open_issues_count": 36,
     "forks_count": 40
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1552,
-    "open_issues_count": 47,
-    "forks_count": 43
+    "stargazers_count": 1567,
+    "open_issues_count": 49,
+    "forks_count": 44
   },
   {
     "full_name": "developit/jsdom-worker",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6883,
+    "stargazers_count": 6893,
     "open_issues_count": 1,
-    "forks_count": 428
+    "forks_count": 431
   },
   {
     "full_name": "0no-co/urql-testapi-todos",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1553,
+    "stargazers_count": 1559,
     "open_issues_count": 30,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 18852,
-    "open_issues_count": 250,
-    "forks_count": 1963
+    "stargazers_count": 18883,
+    "open_issues_count": 251,
+    "forks_count": 1970
   },
   {
     "full_name": "0no-co/evalish",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1666,
+    "stargazers_count": 1701,
     "open_issues_count": 4,
-    "forks_count": 56
+    "forks_count": 59
   },
   {
     "full_name": "lxsmnsyc/solid-cache",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 37730,
-    "open_issues_count": 479,
-    "forks_count": 913
+    "stargazers_count": 37850,
+    "open_issues_count": 486,
+    "forks_count": 920
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10181,
+    "stargazers_count": 10193,
     "open_issues_count": 11,
-    "forks_count": 704
+    "forks_count": 705
   },
   {
     "full_name": "PRQL/prql",
-    "stargazers_count": 6600,
-    "open_issues_count": 101,
-    "forks_count": 130
+    "stargazers_count": 6631,
+    "open_issues_count": 105,
+    "forks_count": 133
   },
   {
     "full_name": "0no-co/hoofd",
