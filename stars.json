@@ -1,39 +1,39 @@
 [
   {
     "full_name": "lagonapp/lagon",
-    "stargazers_count": 430,
-    "open_issues_count": 29,
-    "forks_count": 20
+    "stargazers_count": 441,
+    "open_issues_count": 27,
+    "forks_count": 21
   },
   {
     "full_name": "theanalyst/awesome-distributed-systems",
-    "stargazers_count": 8756,
+    "stargazers_count": 8769,
     "open_issues_count": 11,
     "forks_count": 1272
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 26857,
-    "open_issues_count": 2824,
-    "forks_count": 5398
+    "stargazers_count": 26904,
+    "open_issues_count": 2834,
+    "forks_count": 5409
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 745,
+    "stargazers_count": 749,
     "open_issues_count": 5,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 5362,
-    "open_issues_count": 15,
-    "forks_count": 128
+    "stargazers_count": 5520,
+    "open_issues_count": 17,
+    "forks_count": 133
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18948,
+    "stargazers_count": 18960,
     "open_issues_count": 1,
-    "forks_count": 1028
+    "forks_count": 1033
   },
   {
     "full_name": "prichodko/foundation",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "pippyn/Home-Assistant-Sensor-Afvalbeheer",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 24,
     "forks_count": 71
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3984,
-    "open_issues_count": 49,
-    "forks_count": 122
+    "stargazers_count": 4022,
+    "open_issues_count": 51,
+    "forks_count": 124
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 24519,
+    "stargazers_count": 24536,
     "open_issues_count": 17,
-    "forks_count": 2677
+    "forks_count": 2680
   },
   {
     "full_name": "natemoo-re/satori-html",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 740,
-    "open_issues_count": 36,
-    "forks_count": 41
+    "stargazers_count": 742,
+    "open_issues_count": 35,
+    "forks_count": 42
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1580,
-    "open_issues_count": 49,
-    "forks_count": 44
+    "stargazers_count": 1590,
+    "open_issues_count": 50,
+    "forks_count": 45
   },
   {
     "full_name": "developit/jsdom-worker",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6915,
+    "stargazers_count": 6920,
     "open_issues_count": 1,
     "forks_count": 432
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1585,
+    "stargazers_count": 1595,
     "open_issues_count": 32,
-    "forks_count": 98
+    "forks_count": 100
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 18953,
-    "open_issues_count": 248,
-    "forks_count": 1984
+    "stargazers_count": 18992,
+    "open_issues_count": 252,
+    "forks_count": 1989
   },
   {
     "full_name": "0no-co/evalish",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1744,
+    "stargazers_count": 1750,
     "open_issues_count": 4,
     "forks_count": 63
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 38269,
-    "open_issues_count": 497,
-    "forks_count": 933
+    "stargazers_count": 38392,
+    "open_issues_count": 501,
+    "forks_count": 942
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10203,
+    "stargazers_count": 10212,
     "open_issues_count": 11,
     "forks_count": 705
   },
   {
     "full_name": "PRQL/prql",
-    "stargazers_count": 6667,
-    "open_issues_count": 104,
+    "stargazers_count": 6695,
+    "open_issues_count": 114,
     "forks_count": 139
   }
 ]
