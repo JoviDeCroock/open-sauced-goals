@@ -1,39 +1,39 @@
 [
   {
     "full_name": "lagonapp/lagon",
-    "stargazers_count": 461,
-    "open_issues_count": 28,
+    "stargazers_count": 469,
+    "open_issues_count": 30,
     "forks_count": 23
   },
   {
     "full_name": "theanalyst/awesome-distributed-systems",
-    "stargazers_count": 8807,
+    "stargazers_count": 8825,
     "open_issues_count": 11,
-    "forks_count": 1276
+    "forks_count": 1277
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 27085,
-    "open_issues_count": 2898,
-    "forks_count": 5439
+    "stargazers_count": 27145,
+    "open_issues_count": 2885,
+    "forks_count": 5443
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 780,
+    "stargazers_count": 782,
     "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 5786,
-    "open_issues_count": 18,
-    "forks_count": 146
+    "stargazers_count": 5873,
+    "open_issues_count": 20,
+    "forks_count": 151
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 19052,
+    "stargazers_count": 19080,
     "open_issues_count": 0,
-    "forks_count": 1043
+    "forks_count": 1044
   },
   {
     "full_name": "prichodko/foundation",
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "pippyn/Home-Assistant-Sensor-Afvalbeheer",
-    "stargazers_count": 188,
-    "open_issues_count": 24,
+    "stargazers_count": 191,
+    "open_issues_count": 25,
     "forks_count": 69
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 4296,
-    "open_issues_count": 62,
-    "forks_count": 136
+    "stargazers_count": 4315,
+    "open_issues_count": 61,
+    "forks_count": 141
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 24611,
+    "stargazers_count": 24634,
     "open_issues_count": 17,
-    "forks_count": 2687
+    "forks_count": 2690
   },
   {
     "full_name": "natemoo-re/satori-html",
@@ -79,33 +79,33 @@
   },
   {
     "full_name": "barelyhuman/preact-native",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 6,
     "forks_count": 3
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 776,
+    "stargazers_count": 781,
     "open_issues_count": 27,
-    "forks_count": 45
-  },
-  {
-    "full_name": "preactjs/signals",
-    "stargazers_count": 1627,
-    "open_issues_count": 53,
     "forks_count": 46
   },
   {
+    "full_name": "preactjs/signals",
+    "stargazers_count": 1631,
+    "open_issues_count": 54,
+    "forks_count": 47
+  },
+  {
     "full_name": "developit/jsdom-worker",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 7,
     "forks_count": 18
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6959,
+    "stargazers_count": 6963,
     "open_issues_count": 2,
-    "forks_count": 437
+    "forks_count": 439
   },
   {
     "full_name": "0no-co/urql-testapi-todos",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1636,
+    "stargazers_count": 1642,
     "open_issues_count": 27,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "0no-co/graphcache-code-generation",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 19242,
-    "open_issues_count": 250,
-    "forks_count": 2008
+    "stargazers_count": 19259,
+    "open_issues_count": 263,
+    "forks_count": 2007
   },
   {
     "full_name": "0no-co/evalish",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1774,
+    "stargazers_count": 1779,
     "open_issues_count": 4,
     "forks_count": 63
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 38876,
+    "stargazers_count": 38947,
     "open_issues_count": 530,
-    "forks_count": 957
+    "forks_count": 960
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10250,
+    "stargazers_count": 10255,
     "open_issues_count": 11,
-    "forks_count": 712
+    "forks_count": 713
   },
   {
     "full_name": "PRQL/prql",
-    "stargazers_count": 6758,
-    "open_issues_count": 129,
-    "forks_count": 139
+    "stargazers_count": 6769,
+    "open_issues_count": 135,
+    "forks_count": 140
   }
 ]
