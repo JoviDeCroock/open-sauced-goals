@@ -1,39 +1,45 @@
 [
   {
+    "full_name": "andrewiggins/gz-heatmap",
+    "stargazers_count": 17,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "lagonapp/lagon",
-    "stargazers_count": 469,
-    "open_issues_count": 30,
+    "stargazers_count": 490,
+    "open_issues_count": 27,
     "forks_count": 23
   },
   {
     "full_name": "theanalyst/awesome-distributed-systems",
-    "stargazers_count": 8825,
+    "stargazers_count": 8836,
     "open_issues_count": 11,
-    "forks_count": 1277
+    "forks_count": 1280
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 27145,
-    "open_issues_count": 2885,
-    "forks_count": 5443
+    "stargazers_count": 27200,
+    "open_issues_count": 2864,
+    "forks_count": 5458
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 782,
+    "stargazers_count": 802,
     "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 5873,
-    "open_issues_count": 20,
-    "forks_count": 151
+    "stargazers_count": 6346,
+    "open_issues_count": 21,
+    "forks_count": 164
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 19080,
+    "stargazers_count": 19113,
     "open_issues_count": 0,
-    "forks_count": 1044
+    "forks_count": 1047
   },
   {
     "full_name": "prichodko/foundation",
@@ -55,19 +61,19 @@
   },
   {
     "full_name": "pippyn/Home-Assistant-Sensor-Afvalbeheer",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 25,
     "forks_count": 69
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 4315,
-    "open_issues_count": 61,
-    "forks_count": 141
+    "stargazers_count": 4348,
+    "open_issues_count": 65,
+    "forks_count": 143
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 24634,
+    "stargazers_count": 24651,
     "open_issues_count": 17,
     "forks_count": 2690
   },
@@ -85,25 +91,25 @@
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 781,
-    "open_issues_count": 27,
+    "stargazers_count": 782,
+    "open_issues_count": 34,
     "forks_count": 46
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1631,
+    "stargazers_count": 1650,
     "open_issues_count": 54,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "developit/jsdom-worker",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 7,
     "forks_count": 18
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6963,
+    "stargazers_count": 6974,
     "open_issues_count": 2,
     "forks_count": 439
   },
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1642,
-    "open_issues_count": 27,
+    "stargazers_count": 1651,
+    "open_issues_count": 29,
     "forks_count": 105
   },
   {
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 19259,
+    "stargazers_count": 19298,
     "open_issues_count": 263,
-    "forks_count": 2007
+    "forks_count": 2008
   },
   {
     "full_name": "0no-co/evalish",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "usagi/rust-memory-container-cs",
-    "stargazers_count": 1779,
+    "stargazers_count": 1785,
     "open_issues_count": 4,
     "forks_count": 63
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 38947,
-    "open_issues_count": 530,
-    "forks_count": 960
+    "stargazers_count": 39031,
+    "open_issues_count": 534,
+    "forks_count": 962
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10255,
+    "stargazers_count": 10259,
     "open_issues_count": 11,
-    "forks_count": 713
-  },
-  {
-    "full_name": "PRQL/prql",
-    "stargazers_count": 6769,
-    "open_issues_count": 135,
-    "forks_count": 140
+    "forks_count": 711
   }
 ]
